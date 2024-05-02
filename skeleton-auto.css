@@ -68,7 +68,7 @@
         font-weight: 400;
         background: #292929;
         background: radial-gradient(circle, #292929 28%, #1b1b1b 100%);
-        font-family: Vazirmatn, "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Vazirmatn RD FD", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #FFFFFF; }
     }
     @media (prefers-color-scheme: light) {
@@ -77,7 +77,7 @@
         line-height: 24px;
         font-weight: 400;
         background: #F1F1F1;
-        font-family: Vazirmatn, "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Vazirmatn RD FD", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #222; }
     }
 
@@ -94,72 +94,72 @@
   /* Typography
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Thin.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-ExtraLight.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-ExtraLight.woff2') format('woff2');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Light.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Regular.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Medium.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-SemiBold.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-SemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Bold.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-ExtraBold.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
   }
 
   @font-face {
-    font-family: Vazirmatn;
-    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/fonts/webfonts/Vazirmatn-Black.woff2') format('woff2');
+    font-family: Vazirmatn RD FD;
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Round-Dots/misc/Farsi-Digits/fonts/webfonts/Vazirmatn-RD-FD-Black.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
