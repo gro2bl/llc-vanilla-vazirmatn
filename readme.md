@@ -1,13 +1,13 @@
 # A LinkStack Theme
 Find more themes: https://linkstack.org/themes/
-                                                                                                                                                                         
-*	Theme Name: LLC Vanilla
+
+*	Theme Name: LLC Vanilla Vazirmatn
 *	Theme Version: 1.2
-*	Theme Date: 2022-06-06
-*	Theme Author: JulianPrieber
-*	Theme Author URI: https://github.com/JulianPrieber
+*	Theme Date: 2024-02-05
+*	Theme Author: GrO2Bl
+*	Theme Author URI: https://github.com/gro2bl
 *	Theme License: GPLv3
-*	Source code: https://github.com/LinkStackOrg/llc-vanilla
+*	Source code: https://github.com/gro2bl/llc-vanilla-vazirmatn
 
 
 ### Used assets:
